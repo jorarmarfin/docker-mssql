@@ -1,1 +1,1 @@
-<h1align="center">SQL SERVER</h1>
+<h1 align="center">SQL SERVER</h1>
