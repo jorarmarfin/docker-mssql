@@ -10,12 +10,5 @@ services:
       - net-mssql
     ports:
       - 1433:1433
-  admin:
-    container_name: srv-adminer
-    image: adminer:latest
-    networks: 
-      - net-mssql
-    ports:
-      - 8080:8080
 networks:
   net-mssql:
