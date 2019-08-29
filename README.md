@@ -1,6 +1,6 @@
 <h1 align="center">SQL SERVER</h1>
 
-#RESTAURAR DATABASE
+# RESTAURAR DATABASE
  - copiar backup dentro del contenedor
  - ejecutar dentro del contenedor 
  - RESTORE FILELISTONLY FROM DISK = '/var/opt/mssql/backup/backup_matrix_mod.bak' 
